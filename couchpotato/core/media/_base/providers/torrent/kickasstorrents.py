@@ -51,7 +51,8 @@ class Base(TorrentMagnetProvider):
         'https://kickass.bypassed.video',
         'https://kickass.bypassed.red',
         'https://kickass.unblocked.pw',
-        'https://katproxy.com'
+        'https://katproxy.com',
+        'https://kickasstorrents.unblockninja.com/'
     ]
 
     def _search(self, media, quality, results):
